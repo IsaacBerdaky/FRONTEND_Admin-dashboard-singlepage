@@ -59,11 +59,10 @@ function GlobeMesh() {
       <points>
         <bufferGeometry>
           <bufferAttribute
-            attach="attributes-position"
-            array={positions}
-            count={positions.length / 3}
-            itemSize={3}
-          />
+  attach="attributes-position"
+  args={[positions, 3]}
+/>
+
         </bufferGeometry>
         <pointsMaterial
           color="red"

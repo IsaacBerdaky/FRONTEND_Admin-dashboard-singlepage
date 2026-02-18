@@ -1,36 +1,134 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🌙 MOONLIGHT CORPORATION
+Single Page Admin Dashboard
 
-## Getting Started
+O Moonlight Corporation Dashboard é um Admin Dashboard Single Page (SPA) desenvolvido para uma organização fictícia dedicada à manutenção, monitoramento e proteção estratégica do planeta Terra.
 
-First, run the development server:
+Este projeto centraliza métricas globais, indicadores de risco e relatórios ambientais em uma única página dinâmica, com foco em clareza visual, performance e experiência do usuário.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🏢 Sobre a Organização
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+A Moonlight Corporation atua no monitoramento global de indicadores estratégicos relacionados à estabilidade ambiental, econômica e política do planeta.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Seu objetivo é fornecer dados consolidados para auxiliar decisões voltadas à preservação e equilíbrio global.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+🖥️ Estrutura do Dashboard
 
-## Learn More
+O sistema é organizado em uma interface administrativa moderna contendo:
 
-To learn more about Next.js, take a look at the following resources:
+📌 Navegação Principal
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Dashboard
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Analytics
 
-## Deploy on Vercel
+Monitoramento Global
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Alertas
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Relatórios
+
+Administração
+
+Controle de Acesso
+
+Configurações
+
+📊 Indicadores Principais
+
+O painel principal apresenta métricas estratégicas em tempo real:
+
+1,234 Alertas Recentes
+
+14% Taxa de Risco
+
+26 Analistas Online
+
+74 Relatórios Hoje
+
+Esses indicadores oferecem uma visão rápida do estado atual das operações e do cenário global.
+
+📈 Análises Visuais
+🌍 Análise de Risco Global
+
+Gráfico comparativo com:
+
+Risco Ambiental
+
+Risco Econômico
+
+Risco Político
+
+Com visualização mensal (Jan → Jun) para acompanhamento evolutivo.
+
+🏛️ Taxa de Aprovação do Governo (%)
+
+Gráfico mensal (Jan → Aug) demonstrando variações estratégicas e possíveis impactos no cenário global.
+
+🚨 Sistema de Alertas
+Principais Pontos de Observação
+
+Seção dedicada à análise crítica de regiões ou fatores sob monitoramento.
+
+Principais Alertas
+
+Classificação por nível de estabilidade:
+
+555 Instáveis
+
+370 Perigosos
+
+309 Seguros
+
+25 Críticos
+
+🧠 Conceito do Projeto
+
+Este projeto foi desenvolvido como:
+
+Demonstração de habilidades em UI/UX
+
+Aplicação prática de arquitetura Single Page
+
+Estruturação de dashboard administrativo moderno
+
+Organização visual de dados complexos
+
+🛠️ Tecnologias Utilizadas
+
+Next.js
+
+React
+
+TailwindCSS
+
+Recharts
+
+Lucide Icons
+
+🏆 Conquista
+
+O projeto foi vencedor de uma competição de Front-End focada em Single Page Admin Dashboards, destacando-se por:
+
+Estrutura organizada
+
+Estética profissional
+
+Clareza na visualização de dados
+
+Performance e responsividade
+
+Experiência do usuário bem definida
+
+🎯 Objetivo
+
+O Moonlight Corporation Dashboard representa um projeto de portfólio focado em:
+
+Desenvolvimento Front-End avançado
+
+Criação de interfaces administrativas escaláveis
+
+Visualização estratégica de dados
+
+Design profissional com identidade própria
+
+LINK DO PROJETO: https://moonlight-corp-dashboard.vercel.app/

@@ -13,7 +13,7 @@ export default function Page() {
   const [isOpen, setIsOpen] = useState(false)
 
   return (
-    <div className="min-h-screen bg-[#0B1016] text-white">
+    <div className="h-screen bg-[#0B1016] text-white">
       
       {/* Header */}
       <header className="p-4 sticky top-0">

@@ -20,7 +20,7 @@ export default function Sidebar({ isOpen, onClose }: SidebarProps) {
 
       {/* Sidebar */}
       <aside
-        className={`fixed top-0 left-0 h-dvh w-72 bg-[#0B1016] z-50
+        className={`fixed top-0 left-0 min-h-dvh w-72 bg-[#0B1016] z-50
         transform transition-transform duration-300
         ${isOpen ? "translate-x-0" : "-translate-x-full"}`}
       >
